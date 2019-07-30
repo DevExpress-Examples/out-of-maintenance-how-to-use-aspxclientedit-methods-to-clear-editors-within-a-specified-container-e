@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to use ASPxClientEdit methods to clear editors within a specified container
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20048)**
+**[[Run Online]](https://codecentral.devexpress.com/e20048/)**
 <!-- run online end -->
 
 
